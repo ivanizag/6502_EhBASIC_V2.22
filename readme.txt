@@ -1,3 +1,7 @@
+Modified to biuld with ca65
+
+
+Original readme.txt:
 
  Enhanced BASIC is a BASIC interpreter for the 6502 family microprocessors. It
  is constructed to be quick and powerful and easily ported between 6502 systems.
